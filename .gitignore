@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Wordlist (do not commit)
+   rockyou.txt
+   *.txt
