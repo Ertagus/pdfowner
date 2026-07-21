@@ -145,7 +145,7 @@ Strumento di **recupero password** per documenti propri o su cui si è autorizza
 
 ## Licenza
 
-MIT — vedi `LICENSE`.
+GNU General Public License v3.0 — vedi `LICENSE`.
 
 ## Crediti
 
