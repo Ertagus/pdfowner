@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 #
 # pdfowner - extract and crack PDF owner passwords
-# Copyright (C) 2026 <nome>
+# Copyright (C) 2026 Ertagus
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
