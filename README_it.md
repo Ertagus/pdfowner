@@ -149,5 +149,14 @@ MIT — vedi `LICENSE`.
 
 ## Crediti
 
-- Algoritmo di verifica owner basato sul format `$pdfo$` per John the Ripper di Didier Stevens.
-- Parsing dei metadati di cifratura PDF via [pyHanko](https://github.com/MatthiasValvekens/pyHanko).
+- **Algoritmo di verifica owner** portato dal format `$pdfo$` per
+  John the Ripper di Didier Stevens
+  (<https://github.com/DidierStevens/john>).
+- Il codice di cracking PDF di John the Ripper su cui si basa è
+  © 2012 Dhiru Kholia, © 2013 Shane Quigley, e usa codice di
+  pdfcrack, Sumatra PDF e MuPDF (GPL).
+- Parsing dei metadati di cifratura PDF via
+  [pyHanko](https://github.com/MatthiasValvekens/pyHanko) (MIT).
+- `rockyou.txt` **non** è inclusa: viene scaricata a runtime dalla release
+  [naive-hashcat](https://github.com/brannondorsey/naive-hashcat).
+  È una lista di password pubblica di uso comune nel settore.
