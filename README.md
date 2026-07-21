@@ -147,7 +147,7 @@ This is a **password-recovery** tool for your own documents or ones you are auth
 
 ## License
 
-MIT — see `LICENSE`.
+GNU General Public License v3.0 — see `LICENSE`.
 
 ## Credits
 
