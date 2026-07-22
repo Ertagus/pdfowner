@@ -1,6 +1,6 @@
 # pdfowner.py
 
-📦 **Repository:** [github.com/Ertagus/pdfowner](https://github.com/Ertagus/pdfowner)
+📦 **Repository:** [https://github.com/Ertagus/pdfowner](https://github.com/Ertagus/pdfowner)
 🇮🇹 [Versione italiana](README_it.md)
 
 Extract and crack the **owner password** (the edit/permissions password) of a PDF in a single pass: it reads the hash from the file, then runs a multi-core dictionary attack against it.
