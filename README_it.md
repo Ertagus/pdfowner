@@ -1,5 +1,8 @@
 # pdfowner.py
 
+📦 **Repository:** https://github.com/Ertagus/pdfowner
+🇬🇧 [English version](README.md)
+
 Estrae e cracka la **owner password** (password di modifica/permessi) di un PDF in un unico passaggio: legge l'hash dal file, poi lo attacca a dizionario in multi-core.
 
 Utile per PDF che si aprono senza password ma bloccano modifica/stampa/copia.
