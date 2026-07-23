@@ -7,6 +7,15 @@ Extract and crack the **owner password** (the edit/permissions password) of a PD
 
 Useful for PDFs that open without a password but block editing, printing or copying.
 
+> **What makes this different:** most PDF tools *remove* restrictions by
+> decrypting the file (producing an unlocked copy). This tool does something
+> else — it **recovers the actual owner password** by dictionary attack.
+> You get the password string itself, not just an unlocked PDF.
+>
+> If you only need to strip restrictions from a file that opens without a
+> password, you don't need this — `qpdf --decrypt in.pdf out.pdf` already does that.
+> Use this when you specifically want to **know the password**.
+
 ---
 
 ## Requirements
